@@ -1,0 +1,2 @@
+TOKEN = "6682286773:AAFNT3BtiSfJW1aDVdOuTriFTJ0M0JIVkgg"  # obtained from @BotFather
+OPENAI_TOKEN = "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"

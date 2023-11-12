@@ -1,0 +1,13 @@
+/usr/bin/python: can't find '__main__' module in '/var/_agro/agrobot/'
+  File "/var/_agro/agrobot/bot.py", line 74
+    async def chat0(message:Message):
+        ^
+SyntaxError: invalid syntax
+  File "/var/_agro/agrobot/bot.py", line 74
+    async def chat0(message:Message):
+        ^
+SyntaxError: invalid syntax
+  File "/var/_agro/agrobot/bot.py", line 74
+    async def chat0(message:Message):
+        ^
+SyntaxError: invalid syntax
